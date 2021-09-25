@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "brand": "Asus",
+        "logo": "https://herdaynote.github.io/DevStoreAPI/logo/asus.webp"
+    },
+    {
+        "id": "2",
+        "brand": "Acer",
+        "logo": "https://herdaynote.github.io/DevStoreAPI/logo/acer.webp"
+    },
+    {
+        "id": "3",
+        "brand": "Razer",
+        "logo": "https://herdaynote.github.io/DevStoreAPI/logo/razer.webp"
+    },
+    {
+        "id": "4",
+        "brand": "Apple",
+        "logo": "https://herdaynote.github.io/DevStoreAPI/logo/apple.webp"
+    }
+]
