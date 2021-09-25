@@ -327,8 +327,8 @@
         "model": "Macbook Pro 13",
         "type": "Base Model",
         "description": "The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. Our most advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life — the longest of any Mac ever. It’s our most popular pro notebook, taken to a whole new level.",
-        "image": "https://herdaynote.github.io/DevStoreAPI/images/macbook_pro_13.webp",
-        "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/macbook_pro_13.webp",
+        "image": "https://herdaynote.github.io/DevStoreAPI/images/macbook_pro.webp",
+        "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/macbook_pro.webp",
         "specification": {
             "OS": "macOS",
             "Processor": "Apple M1 Chip",
