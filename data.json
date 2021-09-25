@@ -6,7 +6,7 @@
         "storeName": "Asus Official Store",
         "model": "Zenbook Pro Duo",
         "type": "UX851",
-        "description": "Take your creativity and productivity to the next level with the groundbreaking ASUS ZenBook Pro Duo! Designed to give you the ultimate edge in workflow efficiency, this powerful RTX Studio Laptop features a full-width 4K ASUS ScreenPad™ Plus that works seamlessly with the main 4K UHD OLED display. It’s never been this easy to harness your full creative power.",
+        "description": "Take your creativity and productivity to the next level with the groundbreaking ASUS ZenBook Pro Duo! Designed to give you the ultimate edge in workflow efficiency, this powerful RTX Studio Laptop features a full-width 4K ASUS ScreenPad™ Plus that works seamlessly with the main 4K UHD OLED display.",
         "image": "https://herdaynote.github.io/DevStoreAPI/images/zenbook_pro_duo.webp",
         "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/zenbook_pro_duo.webp",
         "specification": {
@@ -26,7 +26,7 @@
         "storeName": "Asus Official Store",
         "model": "ProArt StudioBook Pro 16",
         "type": "W5600, AMD Ryzen 5000 Series",
-        "description": "Turn your creative vision into reality with the ProArt Studiobook Pro 16 studio laptop: it pushes every boundary to give you the effortless creative experience you’ve always wanted, but never thought possible. With a certified color-accurate 16-inch 120 Hz 2.5K IPS wide-view 16:10 display, up to a breathtakingly powerful AMD® Ryzen™ 5000 series processor, pro-grade NVIDIA RTX™ A2000 graphics, huge amounts of memory, advanced ultrafast storage, superb I/O connectivity, and ultra-precise fingertip control over your creative apps with the groundbreaking new ASUS Dial, ProArt Studiobook Pro 16 is simply the best creator laptop we’ve ever made.",
+        "description": "Turn your creative vision into reality with the ProArt Studiobook Pro 16 studio laptop: it pushes every boundary to give you the effortless creative experience you’ve always wanted, but never thought possible.",
         "image": "https://herdaynote.github.io/DevStoreAPI/images/proart_studiobook_pro_16.webp",
         "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/proart_studiobook_pro_16.webp",
         "specification": {
@@ -66,7 +66,7 @@
         "storeName": "Asus Official Store",
         "model": "Vivobook Pro 14X OLED",
         "type": "M7400, AMD Ryzen 5000 Series",
-        "description": "Shape the future with Vivobook Pro 14X OLED, the ultimate powerhouse for next-generation creativity. Vivobook Pro 14X OLED brings you the speed and accuracy you need to realize your vision, with a 14-inch NanoEdge 2.8K OLED1 display, a AMD Ryzen™ 9 5900HX Mobile Processor, and NVIDIA® GeForce RTX™ 3050 Ti graphics. The exclusive DialPad gives you precise and intuitive control of your creative tools, and the dual-fan cooling design lets you work in undisturbed peace. Vivobook Pro 14X OLED unlocks the door to your creative future.",
+        "description": "Shape the future with Vivobook Pro 14X OLED, the ultimate powerhouse for next-generation creativity. Vivobook Pro 14X OLED brings you the speed and accuracy you need to realize your vision, with a 14-inch NanoEdge 2.8K OLED1 display, a AMD Ryzen™ 9 5900HX Mobile Processor, and NVIDIA® GeForce RTX™ 3050 Ti graphics.",
         "image": "https://herdaynote.github.io/DevStoreAPI/images/vivobook_pro_14x_oled.webp",
         "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/vivobook_pro_14x_oled.webp",
         "specification": {
@@ -86,7 +86,7 @@
         "storeName": "Asus Official Store",
         "model": "Vivobook Pro 14",
         "type": "K3400, 11th Gen Intel",
-        "description": "It’s time to show your vibrant new vision to the world! Vivobook Pro 14 lets you express your true colors, with its vivid and stunning 14-inch NanoEdge display and awe-inspiring Harman Kardon-certified audio. Vivobook Pro 14 immerses you in whatever you’re doing, whether it’s work or play. Powered by the latest 11th Gen Intel® H Series CPU with NVIDIA GeForce GTX 1650 graphics and a dual-fan cooling system, and featuring ultrafast WiFi 6, the ultra-stylish Vivobook Pro 14 is the key to expressing your true potential.",
+        "description": "It’s time to show your vibrant new vision to the world! Vivobook Pro 14 lets you express your true colors, with its vivid and stunning 14-inch NanoEdge display and awe-inspiring Harman Kardon-certified audio.",
         "image": "https://herdaynote.github.io/DevStoreAPI/images/vivobook_pro_14.webp",
         "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/vivobook_pro_14.webp",
         "specification": {
@@ -106,7 +106,7 @@
         "storeName": "Asus Official Store",
         "model": "Vivobook Pro 16X",
         "type": "N7600, 11th Gen Intel",
-        "description": "Ignite your creativity with Vivobook Pro 16X, the uncompromising powerhouse for discovering your potential and exploring the future. Vivobook Pro 16X brings you the speed and accuracy you need to realize your vision, with a 16-inch NanoEdge display, 11th Generation Intel® H Series CPU, and NVIDIA® GeForce RTX™ 3050 graphics. The exclusive ASUS DialPad gives you precise and intuitive control of your creative tools, and the dual-fan cooling design lets you work in undisturbed peace. Vivobook Pro 16X unlocks the door to your creative future.",
+        "description": "Ignite your creativity with Vivobook Pro 16X, the uncompromising powerhouse for discovering your potential and exploring the future. Vivobook Pro 16X brings you the speed and accuracy you need to realize your vision, with a 16-inch NanoEdge display, 11th Generation Intel® H Series CPU, and NVIDIA® GeForce RTX™ 3050 graphics.",
         "image": "https://herdaynote.github.io/DevStoreAPI/images/vivobook_pro_16x.webp",
         "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/vivobook_pro_16x.webp",
         "specification": {
@@ -126,7 +126,7 @@
         "storeName": "Asus Official Store",
         "model": "ROG Zephyrus Duo 15 SE",
         "type": "GX551",
-        "description": "With its innovative ROG ScreenPad Plus secondary display, the Zephyrus Duo 15 SE takes Windows 10 gaming to new dimensions. Cutting-edge cooling empowers the latest AMD Ryzen™ 9 5900HX CPU and NVIDIA® GeForce RTX™ 3080 GPU. A choice between ultrafast 300Hz/3ms or high-res 4K 120Hz/3ms gaming panels lets you tailor your system for pro-level esports or content creation. Elevate your entire experience with premium audio delivered by quad speakers and immersive Dolby Atmos surround sound.",
+        "description": "With its innovative ROG ScreenPad Plus secondary display, the Zephyrus Duo 15 SE takes Windows 10 gaming to new dimensions. Cutting-edge cooling empowers the latest AMD Ryzen™ 9 5900HX CPU and NVIDIA® GeForce RTX™ 3080 GPU.",
         "image": "https://herdaynote.github.io/DevStoreAPI/images/rog_zephyrus_duo_15_se.webp",
         "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/rog_zephyrus_duo_15_se.webp",
         "specification": {
@@ -226,7 +226,7 @@
         "storeName": "Razer Official Store",
         "model": "Razer Book",
         "type": "UHD Touch 60Hz",
-        "description": "From a heritage of high-performance hardware comes a laptop that’s a productivity powerhouse. Its ultra-compact design and 13.4” bezel display is built for uncompromising mobility. Exceptional battery life of up to 10 hours and more keeps you working on your own hours. Plus, with an 11th Gen Intel® Core™ i5 or i7, you can efficiently multitask with responsiveness and focus, jumping between video calls, downloading and sharing files, and browsing multiple windows at once. Ready to get to work?",
+        "description": "From a heritage of high-performance hardware comes a laptop that’s a productivity powerhouse. Its ultra-compact design and 13.4” bezel display is built for uncompromising mobility. Exceptional battery life of up to 10 hours and more keeps you working on your own hours.",
         "image": "https://herdaynote.github.io/DevStoreAPI/images/razer_book.webp",
         "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/razer_book.webp",
         "specification": {
@@ -246,7 +246,7 @@
         "storeName": "Razer Official Store",
         "model": "Razer Blade Stealth 13",
         "type": "Base Model",
-        "description": "Enter the next evolution of ultra-mobility and extreme performance. Utilizing the latest and greatest 11th gen Intel® Core™ i7 processor at 28W and a powerful GeForce® GTX 1650 Ti, you’ll rip through games and content creation tasks. Featuring the world’s fastest 13.3” 120Hz Full HD display for buttery smooth visuals or an all new OLED touch display - the Razer Blade Stealth 13 combines portability and style, with performance that’s perfect for gaming and productivity.",
+        "description": "Enter the next evolution of ultra-mobility and extreme performance. Utilizing the latest and greatest 11th gen Intel® Core™ i7 processor at 28W and a powerful GeForce® GTX 1650 Ti, you’ll rip through games and content creation tasks.",
         "image": "https://herdaynote.github.io/DevStoreAPI/images/razer_blade_13.webp",
         "imageThumbnail": "https://herdaynote.github.io/DevStoreAPI/thumbnails/razer_blade_13.webp",
         "specification": {
