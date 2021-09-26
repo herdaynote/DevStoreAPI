@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
-        "storeName": "Asus Official Store",
-        "storeLogo": "https://herdaynote.github.io/DevStoreAPI/logo/asus.webp",
+        "name": "Asus Official Store",
+        "logo": "https://herdaynote.github.io/DevStoreAPI/logo/asus.webp",
         "products": [
             {
                 "id": "1",
@@ -184,8 +184,8 @@
     },
     {
         "id": "2",
-        "storeName": "Acer Official Store",
-        "storeLogo": "https://herdaynote.github.io/DevStoreAPI/logo/acer.webp",
+        "name": "Acer Official Store",
+        "logo": "https://herdaynote.github.io/DevStoreAPI/logo/acer.webp",
         "products": [
             {
                 "id": "9",
@@ -235,8 +235,8 @@
     },
     {
         "id": "3",
-        "storeName": "Razer Official Store",
-        "storeLogo": "https://herdaynote.github.io/DevStoreAPI/logo/razer.webp",
+        "name": "Razer Official Store",
+        "logo": "https://herdaynote.github.io/DevStoreAPI/logo/razer.webp",
         "products": [
             {
                 "id": "11",
@@ -352,8 +352,8 @@
     },
     {
         "id": "4",
-        "storeName": "Apple Official Store",
-        "storeLogo": "https://herdaynote.github.io/DevStoreAPI/logo/apple.webp",
+        "name": "Apple Official Store",
+        "logo": "https://herdaynote.github.io/DevStoreAPI/logo/apple.webp",
         "products": [
             {
                 "id": "16",
